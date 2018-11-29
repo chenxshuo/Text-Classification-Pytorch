@@ -21,6 +21,9 @@ Once you clone this repo, run the main.py file to process the dataset and to tra
 ```shell
 $ python main.py
 ```
+## Train your own model
+You can format your data into csv files with a column of text and a column of label. Then put them into the *./data/* folder.
+Then specify the column name in the load_data.py 
 
 ## References
   * A Structured Self-Attentive Sentence Embedding : [Paper][1]
