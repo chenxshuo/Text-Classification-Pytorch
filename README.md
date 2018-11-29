@@ -25,6 +25,10 @@ $ python main.py
 You can format your data into csv files with a column of text and a column of label. Then put them into the *./data/* folder.
 Then specify the column name in the load_data.py 
 
+## Test your own model
+```shell
+python test.py .....content.....
+```
 ## References
   * A Structured Self-Attentive Sentence Embedding : [Paper][1]
   * Convolutional Neural Networks for Sentence Classification : [Paper][2]
